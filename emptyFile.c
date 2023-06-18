@@ -1,4 +1,3 @@
 changes  new changes
-master fix line
-hotfix
+master fixed line
 new line
