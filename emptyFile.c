@@ -1,3 +1,3 @@
 changes  new changes
-new line
+line
 new line
