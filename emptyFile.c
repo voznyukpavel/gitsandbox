@@ -1,3 +1,3 @@
 changes  new changes
-master fix line
+master fixed line
 new line
